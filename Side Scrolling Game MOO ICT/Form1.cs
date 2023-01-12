@@ -28,7 +28,7 @@ namespace Side_Scrolling_Game_MOO_ICT
         public Form1()
         {
             InitializeComponent();
-            txtScore.Parent = background;
+            //txtScore.Parent = background;
         }
 
         private void MainTimerEvent(object sender, EventArgs e)

@@ -275,7 +275,7 @@
             // 
             // pictureBox13
             // 
-            this.pictureBox13.Image = global::Side_Scrolling_Game_MOO_ICT.Properties.Resources.dead;
+            this.pictureBox13.Image = global::Side_Scrolling_Game_MOO_ICT.Properties.Resources.coin;
             this.pictureBox13.Location = new System.Drawing.Point(339, 178);
             this.pictureBox13.Name = "pictureBox13";
             this.pictureBox13.Size = new System.Drawing.Size(25, 25);
